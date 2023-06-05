@@ -1,4 +1,4 @@
-# <Toussaint's Prework Study Guide Webpage>
+# <Horiseon Digital Marketing>
 
 ## Description
 
@@ -6,6 +6,7 @@ This Prework Study Guide was created for boot camp students who were going throu
 
 
 ## Table of Contents (Optional)
+<img width="1728" alt="image" src="https://github.com/ToussaintG1/module-1-challenge/assets/133610903/edc70bd2-28e2-4556-999b-ef699b931d79">
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -51,4 +52,8 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
+<<<<<<< HEAD
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+=======
+Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+>>>>>>> 08fbec8d1bbfafe35209755145df5355c8c13fc3
